@@ -1,0 +1,6 @@
+Processes and threads
+CPU scheduling
+Deadlock conditions done
+Processes and threads
+CPU scheduling
+Deadlock conditions
