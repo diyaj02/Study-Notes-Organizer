@@ -82,3 +82,29 @@ python main.py
 - Add user login system
 
 
+
+## Sample Output
+```text
+--- Study Notes Organizer ---
+
+1. Add study file
+2. View study files
+3. Study file & add notes
+4. View notes
+5. Exit
+
+Enter choice (1-5): 1
+Enter subject name: OS
+Study file 'OS' added successfully
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### View Notes
+![View Notes](screenshots/view_notes.png)
+
+### Exit Option
+![Exit](screenshots/exit.png)
+
