@@ -31,6 +31,7 @@ This project allows users to:
 ---
 
 ## Project Structure 
+```
 Study-Notes-Organiser/
 │
 ├── main.py          # Main Python program
@@ -39,6 +40,7 @@ Study-Notes-Organiser/
 │   ├── notes_os_notes.txt
 │   └── notes_daa_notes.txt
 └── README.md        # Project documentation
+```
 
 
 ---
