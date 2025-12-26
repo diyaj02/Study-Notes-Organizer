@@ -31,14 +31,16 @@ This project allows users to:
 ---
 
 ## Project Structure 
-Study-Notes-Organiser/
+Study-Notes-Organizer/
 │
-├── main.py          # Main Python program
-├── files.txt        # Stores study file names
-├── notes/           # Folder that stores notes for each subject
-│   ├── notes_os_notes.txt
-│   └── notes_daa_notes.txt
-└── README.md        # Project documentation
+├── main.py                 # Main Python program (CLI)
+├── files.txt               # Stores list of study files
+├── notes/
+│   ├── os_notes.txt        # Operating System notes
+│   ├── daa_notes.txt       # DAA notes
+│   └── dbms_notes.txt      # DBMS notes
+│
+└── README.md               # Project documentation
 
 
 ---
