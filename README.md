@@ -1,4 +1,4 @@
-# Study Notes Organizer 📚
+# Study Notes Organizer 
 
 A simple Python command-line application that helps students organize study files and take notes while studying.
 
@@ -32,7 +32,7 @@ This project allows users to:
 
 ## Project Structure 
 ```
-Study-Notes-Organiser/
+Study-Notes-Organizer/
 │
 ├── main.py          # Main Python program
 ├── files.txt        # Stores study file names
@@ -50,25 +50,24 @@ Study-Notes-Organiser/
 1. Make sure Python 3 is installed
 2. Open a terminal in the project folder
 3. Run the following command:
-
+```bash
 python main.py
-
+```
 ---
+## Validation
 
-## Author 
-
-Created by Diya J, a 2nd year engineering student learning Python and software development.
-
+- Tested the application through repeated usage across multiple subjects.
+- Verified correct creation, storage, and retrieval of notes without data loss.
+- Used during coursework to ensure practical usability.
 
 ---
 
 ## Sample Usage 
 
 1. Run the program:
-'''
+```bash
 python main.py
-'''
-
+```
 2. Choose an option from the menu:
 - Add a new study file (subject)
 - Add important notes while studying
